@@ -1,6 +1,6 @@
 # TECHNOVA
 <br>
-**OVERVIEW OF THIS PROJECT** : <br>
+**OVERVIEW OF THIS PROJECT**: <br>
 Managing money is tough when you dont know where it's going. So our project Smart Expense AI helps users to track their spending, predicts next month's expenses, and warns them before they overspend,especially on things like food and shopping. <br>
 OUR GOAL? Help people make smarter financial decisions without needing to be finance experts. 
 <br>
@@ -33,4 +33,5 @@ Local Storage – To store transaction data on the browser<br>
 Chart.js / Recharts  – For visualizing expense trends <br>
 
 folder which are not uploaded in github <br>
-node_modules
+node_modules<br>
+to check our project - I have attached **PROJECT WORKING DEMO** - click view as a raw it  will automatically download in download section. 
