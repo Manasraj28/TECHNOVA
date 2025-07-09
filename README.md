@@ -32,5 +32,5 @@ Smart Suggestion System – Offers saving tips based on user habits<br>
 Local Storage – To store transaction data on the browser<br>
 Chart.js / Recharts  – For visualizing expense trends <br>
 
-folder which are not uploaded in github
+folder which are not uploaded in github <br>
 node_modules
