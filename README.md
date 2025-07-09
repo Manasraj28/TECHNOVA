@@ -9,6 +9,7 @@ OUR GOAL? Help people make smarter financial decisions without needing to be fin
 2) Predict next month’s spending using past data<br>
 3) Show warning when spending on food/shopping crosses ₹5000<br>
 4) Get simple, helpful suggestions to improve savings<br>
+5) All currencies are included, facilate global search 
 
 **How It Works** <br>
 1. User enters daily expenses  <br>
@@ -16,3 +17,18 @@ OUR GOAL? Help people make smarter financial decisions without needing to be fin
 3. ML logic classifies categories like food, travel, etc.  <br>
 4. If predicted spending > ₹5000 → show a  warning  <br>
 5. App suggests actions like reducing takeout or shopping less <br>
+
+**TECHSTACK USED** <br>
+ **For Frontend**<br>
+React – For building dynamic, component-based UI<br>
+TypeScript – For type safety and better code structure<br>
+Vite – Fast bundler and dev environment for React<br>
+Tailwind CSS – For responsive and clean UI design<br>
+ **For Data & Logic** <br>
+Custom ML Logic – Rule-based prediction using 3-month average<br>
+Red Alert System – Warning users when predicted spending exceeds ₹5000 in key categories <br>
+Smart Suggestion System – Offers saving tips based on user habits<br>
+**For Utilities**<br>
+Local Storage – To store transaction data on the browser<br>
+Chart.js / Recharts  – For visualizing expense trends <br>
+
